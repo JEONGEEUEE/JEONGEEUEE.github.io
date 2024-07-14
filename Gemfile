@@ -1,2 +1,3 @@
 source "https://rubygems.org"
-gemspec
+gemspec path: "./minimal-mistakes-jekyll.gemspec"
+
