@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "JEONGEEUEE'S BLOG"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Study Constantly"
 name                     : "JEONGEEUEE"
 description              : "JEONGEEUEE의 블로그 입니다"
 url                      : "https://JEONGEEUEE.github.io"
