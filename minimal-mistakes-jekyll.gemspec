@@ -1,6 +1,6 @@
 require "json"
 
-package_json = JSON.parse(File.read(File.join(__dir__, '..', 'package.json')))
+#package_json = JSON.parse(File.read(File.join(__dir__, '..', 'package.json')))
 
 
 
